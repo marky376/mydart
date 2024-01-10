@@ -6,4 +6,7 @@ void main()
 	print(myMap.keys.elementAt(0));
 	print(myMap.values.elementAt(0));
 
+	print(myMap.keys.toList()[1]);
+	print(myMap.values.toList()[1]);
+
 }
