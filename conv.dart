@@ -13,5 +13,6 @@ void main()
 
 	d = 40;
 	e = "0.1";
+	f = d + double.parse(e);
 
 }
