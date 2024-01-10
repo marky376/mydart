@@ -17,5 +17,7 @@ void main()
 	print("$d + $e = $f");
 
 	// integer to string
+	var g, h, i;
+
 
 }
