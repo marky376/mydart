@@ -19,6 +19,8 @@ void main()
 	// integer to string
 	var g, h, i;
 	g = 40;
+	h = '1';
+
 
 
 }
