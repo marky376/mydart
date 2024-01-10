@@ -21,6 +21,7 @@ void main()
 	g = 40;
 	h = '1';
 	i = g.toString() + h;
+	print("$g + $h = $i");
 
 
 
