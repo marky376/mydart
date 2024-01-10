@@ -20,6 +20,7 @@ void main()
 	var g, h, i;
 	g = 40;
 	h = '1';
+	i = g.toString() + h;
 
 
 
