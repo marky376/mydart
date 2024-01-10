@@ -9,4 +9,6 @@ void main()
 
 	// String to double
 
+	var d, e, f;
+
 }
