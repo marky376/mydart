@@ -22,12 +22,10 @@ void main()
 
 	// Asks user for input
 	
-	while (day == bad)
-	{
+	print("Any thoughts on how to better your day?: ");
+	var from = stdin.readLineSync();
 
-		print("Any thoughts on how to better your day?: ");
-		var from = stdin.readLineSync();
-	}
+	print("Fantastic way to improve your day $name");
 
 
 }
