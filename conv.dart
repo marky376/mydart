@@ -12,5 +12,6 @@ void main()
 	var d, e, f;
 
 	d = 40;
+	e = "0.1";
 
 }
