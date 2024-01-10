@@ -21,4 +21,13 @@ void main()
 	print("It seem you are having a $day day.");
 
 	// Asks user for input
+	
+	while (day == bad)
+	{
+
+		print("Any thoughts on how to better your day?: ");
+		var from = stdin.readLineSync();
+	}
+
+
 }
