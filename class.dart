@@ -17,4 +17,7 @@ class Person
 		this.sex = sex;
 		this.age = age;
 	}
+	// Method
+	// Named methods when in a class and when not in a class
+	//
 }
