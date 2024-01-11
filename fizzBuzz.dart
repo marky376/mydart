@@ -27,7 +27,7 @@ void main()
 		// This outcome is brought about by the num not being true in the
 		// 1st case: if num % 3 == 0 and
 		// 2nd case: if num % 5 == 0
-		//
+		// Enjoy
 
 		else
 		{
@@ -37,4 +37,5 @@ void main()
 		// incrementation
 		num++;
 	}
+	// A typical interview question back in the days
 }
