@@ -27,6 +27,7 @@ class Person
 	// Named methods when in a class and when not in a class
 	// They are called functions
 
+	// method to be called by the main function of the program
 	void showData()
 	{
 		print('Name = $name');
