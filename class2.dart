@@ -30,7 +30,7 @@ class Person
         int? age;
 
         // Method
-        void Person(String name, sex, int age)
+        void addData(String name, sex, int age)
         {
                 this.name = name;
                 this.sex = sex;
