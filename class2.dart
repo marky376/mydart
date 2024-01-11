@@ -29,8 +29,8 @@ class Person
         String? name, sex;
         int? age;
 
-        // Constructors
-        Person(String name, sex, int age)
+        // Method
+        void Person(String name, sex, int age)
         {
                 this.name = name;
                 this.sex = sex;
