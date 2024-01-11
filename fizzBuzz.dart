@@ -13,6 +13,7 @@ void main()
 		{
 			print("$num, FizzBuzz");	
 		}
+		// Print out num if num % 3 == 0
 		else if (num % 3 == 0)
 		{
 			print("$num, Fizz");
