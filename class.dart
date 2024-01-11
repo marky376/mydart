@@ -23,6 +23,8 @@ class Person
 
 	void showData()
 	{
-		
+		print('Name = $name');
+		print('Sex = $sex');
+
 	}
 }
