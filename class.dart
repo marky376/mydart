@@ -14,6 +14,7 @@ void main()
 
 	Person p3 = Person("Dev. Alex Mwaniki", "Male", 19);
 	p3.showData();
+	print(p3.age);
 }
 class Person
 {
