@@ -9,4 +9,8 @@ class Person
 	int? age;
 
 	// Constructors
+	Person(String name, sex, int age)
+	{
+		this.name = name;
+	}
 }
