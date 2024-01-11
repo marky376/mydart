@@ -19,6 +19,10 @@ void main()
 		{
 			print("$num, Fizz");
 		}
+		else
+		{
+			print("$num, Gotcha");
+		}
 
 		// incrementation
 		num++;
