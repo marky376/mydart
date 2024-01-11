@@ -11,5 +11,5 @@ void main()
 	var nummy2 = int.parse(nummy ?? '0') + 10;
 
 	// Printing out the information
-	print("$nu
+	print("$nummy + 10
 }
