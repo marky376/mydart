@@ -3,10 +3,11 @@ void main()
 	// Classes init fahm
 
 	Person p1 = Person("John", "Male", 44);
-	p2.showData();
+	p1.showData();
 	// function calls the method in the class (Person)
 	
-	Person p2 = Person("Mark Munyao Mutua", "
+	Person p2 = Person("Mark Munyao Mutua", "Male", 19);
+	p2.showData();
 }
 class Person
 {
