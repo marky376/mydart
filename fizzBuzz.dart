@@ -9,15 +9,15 @@ void main()
 
 		if (num % 5 == 0 && num % 3 == 0)
 		{
-			print("$num, FizzBuzz);	
+			print("$num, FizzBuzz");	
 		}
 		else if (num % 3 == 0)
 		{
-			print("$num, Fizz);
+			print("$num, Fizz");
 		}
 		else if (num % 5 == 0)
 		{
-			print("$num, Fizz);
+			print("$num, Fizz");
 		}
 
 		// incrementation
