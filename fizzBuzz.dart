@@ -7,7 +7,7 @@ void main()
 	{
 		print(num);
 
-
+		if (num % 5 == 0 &&
 
 		// incrementation
 		num++;
