@@ -4,6 +4,7 @@ void main()
 
 	Person pi = Person("John", "Male", 44);
 	pi.showData();
+	// function calls the method in the class (Person)
 
 }
 class Person
