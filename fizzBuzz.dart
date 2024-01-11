@@ -25,7 +25,7 @@ void main()
 		}
 		// And finally print out the num and Gotcha
 		// This outcome is brought about by the num not being true in the
-		//
+		// 1st case: if num % 3 == 0
 		else
 		{
 			print("$num, Gotcha");
