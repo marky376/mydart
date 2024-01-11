@@ -6,6 +6,7 @@ void main()
         //p1.showData();
         //print(p1.name);
         // function calls the method in the class (Person)
+	p1.addData("John", "Male"
 
         // Create a second person
         //Person p2 = Person("Mark Munyao Mutua", "Male", 19);
