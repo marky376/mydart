@@ -1,4 +1,4 @@
 void main()
 {
-	//A class
+	//A class without initialization
 }
