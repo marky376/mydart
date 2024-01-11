@@ -9,8 +9,9 @@ void main()
 
 		if (num % 5 == 0 && num % 3 == 0)
 		{
-			
+			print("$num, FizzBuzz);	
 		}
+		else
 
 		// incrementation
 		num++;
