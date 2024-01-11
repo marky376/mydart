@@ -11,9 +11,13 @@ void main()
 		{
 			print("$num, FizzBuzz);	
 		}
-		else if(num % 3 == 0)
+		else if (num % 3 == 0)
 		{
-			print("$num, Fizz)
+			print("$num, Fizz);
+		}
+		else if (num % 5 == 0)
+		{
+			print("$num, Fizz);
 		}
 
 		// incrementation
