@@ -23,7 +23,9 @@ void main()
 		{
 			print("$num, Buzz");
 		}
-		// And finally print out the num and Gotch
+		// And finally print out the num and Gotcha
+		// This outcome is brought about by the num not being true in the
+		//
 		else
 		{
 			print("$num, Gotcha");
