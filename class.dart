@@ -3,7 +3,7 @@ void main()
 	// Classes init fahm
 
 	Person pi = Person("John", "Male", 44);
-	pi.
+	pi.showData();
 
 }
 class Person
