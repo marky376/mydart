@@ -2,7 +2,7 @@ void main()
 {
         // Classes init fahm
 
-        Person p1 = Person("John", "Male", 44);
+        Person p1 = Person();
         //p1.showData();
         //print(p1.name);
         // function calls the method in the class (Person)
