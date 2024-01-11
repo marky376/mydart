@@ -2,7 +2,7 @@ void main()
 {
 	// Classes init fahm
 
-	Person pi = Person("John", 
+	Person pi = Person("John", "Male", 44) 
 
 }
 class Person
