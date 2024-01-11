@@ -1,11 +1,13 @@
 void main()
 {
+	// initialization of the data type
 	int num = 1;
 	
 	//loop
 	while (num <= 100)
 	{
 		print(num);
+		// Print  out num if num % 5 == 0 and num % 3 == 0 (FizzBuzz)
 
 		if (num % 5 == 0 && num % 3 == 0)
 		{
