@@ -20,4 +20,9 @@ class Person
 	// Method
 	// Named methods when in a class and when not in a class
 	// They are called functions
+
+	void showData()
+	{
+		
+	}
 }
