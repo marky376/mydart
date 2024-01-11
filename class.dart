@@ -5,6 +5,7 @@ void main()
 }
 class Person
 {
+	// the (?) is for nullability
 	String? name, sex;
 	int? age;
 
