@@ -18,7 +18,7 @@ void main()
 		{
 			print("$num, Fizz");
 		}
-		// Print out num if num % 5 == 0 (Fizz)
+		// Print out num if num % 5 == 0 (Buzz)
 		else if (num % 5 == 0)
 		{
 			print("$num, Buzz");
