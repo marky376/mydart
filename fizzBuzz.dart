@@ -11,7 +11,10 @@ void main()
 		{
 			print("$num, FizzBuzz);	
 		}
-		else
+		else if(num % 3 == 0)
+		{
+			print("$num, Fizz)
+		}
 
 		// incrementation
 		num++;
