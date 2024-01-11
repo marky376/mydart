@@ -5,6 +5,7 @@ void main()
 }
 class Person
 {
+	// Blueprint
 	// the (?) is for nullability
 	String? name, sex;
 	int? age;
@@ -15,6 +16,5 @@ class Person
 		this.name = name;
 		this.sex = sex;
 		this.age = age;
-
 	}
 }
