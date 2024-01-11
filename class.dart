@@ -12,5 +12,6 @@ class Person
 	Person(String name, sex, int age)
 	{
 		this.name = name;
+		this.sex = sex;
 	}
 }
