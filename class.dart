@@ -2,6 +2,8 @@ void main()
 {
 	// Classes init fahm
 
+	Person pi = 
+
 }
 class Person
 {
