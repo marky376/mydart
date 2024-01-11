@@ -25,6 +25,6 @@ class Person
 	{
 		print('Name = $name');
 		print('Sex = $sex');
-
+		print('Age = $age');
 	}
 }
