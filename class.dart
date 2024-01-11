@@ -9,7 +9,8 @@ void main()
 	Person p2 = Person("Mark Munyao Mutua", "Male", 19);
 	p2.showData();
 
-	Person p3 = Person("Dev. Alex Mwaniki", "Male
+	Person p3 = Person("Dev. Alex Mwaniki", "Male", 19);
+	p3.showData();
 }
 class Person
 {
