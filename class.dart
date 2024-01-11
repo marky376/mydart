@@ -18,6 +18,9 @@ void main()
 	print(p3.age);
 
 	// Create a fourth person
+	Person p4 = Person("Dev. Mercy Njoroge", "Female", 22);
+	p4.showData();
+	print(p4.name);
 }
 class Person
 {
