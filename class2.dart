@@ -3,7 +3,7 @@ void main()
         // Classes init fahm
 
         Person p1 = Person();
-        //p1.showData();
+        p1.showData();
         //print(p1.name);
         // function calls the method in the class (Person)
 	// Add Data
@@ -13,7 +13,7 @@ void main()
 
         // Create a second person
         Person p2 = Person();
-        //p2.showData();
+        p2.showData();
         p2.name = "Mark Munyao Mutua";
 	p2.sex = "Male";
 	p2.age = 20;
@@ -21,7 +21,7 @@ void main()
 
         // Create a third person
         Person p3 = Person();
-        //p3.showData();
+        p3.showData();
         p3.name = "Dev. Alex Mwaniki";
 	p3.age = 20;
 	p3.sex = "Male";
