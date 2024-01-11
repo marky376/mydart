@@ -12,19 +12,28 @@ void main()
 	p1.showData();
 
         // Create a second person
-        //Person p2 = Person("Mark Munyao Mutua", "Male", 19);
+        Person p2 = Person();
         //p2.showData();
-        //print(p2.sex);
+        p2.name = "Mark Munyao Mutua";
+	p2.sex = "Male";
+	p2.age = 20;
+	print(p2.sex);
 
         // Create a third person
-        //Person p3 = Person("Dev. Alex Mwaniki", "Male", 19);
+        Person p3 = Person();
         //p3.showData();
-        //print(p3.age);
+        p3.name = "Dev. Alex Mwaniki";
+	p3.age = 20;
+	p3.sex = "Male";
+	print(p3.age);
 
         // Create a fourth person
-        //Person p4 = Person("Dev. Mercy Njoroge", "Female", 22);
+        Person p4 = Person();
         //p4.showData();
-        //print(p4.name);
+	p4.name = "Dev. Mercy Njoroge";
+	p4.age = 23;
+	p4.sex = "Female";
+        print(p4.name);
 }
 class Person
 {
