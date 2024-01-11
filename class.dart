@@ -7,14 +7,17 @@ void main()
 	print(p1.name);
 	// function calls the method in the class (Person)
 	
+	// Create a second person
 	Person p2 = Person("Mark Munyao Mutua", "Male", 19);
 	p2.showData();
 	print(p2.sex);
 
-
+	// Create a third person
 	Person p3 = Person("Dev. Alex Mwaniki", "Male", 19);
 	p3.showData();
 	print(p3.age);
+
+	// Create a fourth person
 }
 class Person
 {
