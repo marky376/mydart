@@ -7,7 +7,10 @@ void main()
 	{
 		print(num);
 
-		if (num % 5 == 0 &&
+		if (num % 5 == 0 && num % 3 == 0)
+		{
+			
+		}
 
 		// incrementation
 		num++;
