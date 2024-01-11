@@ -8,6 +8,8 @@ void main()
 	
 	Person p2 = Person("Mark Munyao Mutua", "Male", 19);
 	p2.showData();
+
+	Person p3 = Person(
 }
 class Person
 {
